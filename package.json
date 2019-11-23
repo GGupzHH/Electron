@@ -1,0 +1,22 @@
+{
+  "name": "electronzhh",
+  "version": "0.0.0",
+  "description": "zhh is Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGupzHH/Electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGupzHH/Electron/issues"
+  },
+  "homepage": "https://github.com/GGupzHH/Electron#readme",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  }
+}
