@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/GGupzHH/Electron#readme",
   "devDependencies": {
-    "electron": "^7.1.2"
+    "electron": "^7.2.4"
   }
 }
